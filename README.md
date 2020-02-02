@@ -1,2 +1,4 @@
-# latihan_oop_ci
-ini adalah latihan oop menggunakan code igniter atas nama Azhar Ryad npm 17 111 324
+# TUGAS UAS WEB PROGRAMMING 2
+NPM 	: 17111135
+Nama	: Sidik Permana
+Kelas : TIF RP 17 CID C
