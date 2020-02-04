@@ -5,4 +5,4 @@ Kelas : TIF RP 17 CID C
 Link	: https://sidikpermana826.000webhostapp.com/
 
 login Admin dan Mahasiswa disatukan untuk
-registrasi mahasisa tidak bisa registrasi sebelum meminta npm kepada admin yang telah di inputkan.
+registrasi mahasiswa tidak bisa registrasi sebelum meminta npm kepada admin yang telah di inputkan oleh admin.
