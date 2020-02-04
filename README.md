@@ -4,8 +4,8 @@ Nama	: Sidik Permana
 Kelas : TIF RP 17 CID C
 Link	: https://sidikpermana826.000webhostapp.com/
 
-login Admin dan Mahasiswa disatukan untuk,
+Untuk login Admin dan Mahasiswa disatukan dalam satu halaman Login.(Uss&Pass disediakan di dalam Github),
 
-registrasi mahasiswa tidak bisa registrasi sebelum meminta npm kepada admin yang telah di inputkan oleh admin.
+Sedangkan untuk registrasi mahasiswa sendiri, mahasiswa tidak akan bisa registrasi sebelum meminta npm kepada admin yang telah di inputkan oleh admin.
 
-Web yang saya buat langsung memasuki halaman login.
+Web yang saya buat langsung memasuki halaman login untuk mempercepat proses pekerjaan hehehe .
